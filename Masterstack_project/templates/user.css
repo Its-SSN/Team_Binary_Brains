@@ -1,0 +1,8 @@
+.bigdiv{
+    position: relative;
+}
+.smalldiv{
+    position: absolute;
+    top: 40%;
+    left: 40px;
+}
